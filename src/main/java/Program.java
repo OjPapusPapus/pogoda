@@ -4,8 +4,12 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class Program {
+
+    private static ArrayList<Forecast> forecasts = new ArrayList<Forecast>();
+
     public static void main(String[] args) {
 
         try {
@@ -22,6 +26,7 @@ public class Program {
                 String sun = row.getElementsByClass("weather-forecast-longterm-list-entry-forecast-phrase").first().getAllElements().first().text();
 
                 System.out.println(date + ", " + temp + " : " + lowTemp + ", " + sun);
+                forecasts.add( new Forecast(date, temp, lowTemp, sun) );
             }
         } catch (IOException e) {
             e.printStackTrace();

@@ -4,6 +4,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.io.FileWriter;
 import java.util.ArrayList;
 
 public class Program {
@@ -32,6 +33,17 @@ public class Program {
             e.printStackTrace();
             return;
         }
+
+        String fileText = "Data,Temperatura,Najniższa Temperatura,Zachmurzenie\n";
+        for(Forecast o : forecasts) {
+            fileText += o.date + "," + o.temp + "," + o.tempLow + "," + o.sun + '\n';
+        }
+
+        try {
+            FileWriter myWriter = new FileWriter("prognoza.txt");
+            myWriter.write(fileText);
+            myWriter.close();
+        } catch (IOException e) {  e.printStackTrace(); }
 
     }
 }

@@ -1,0 +1,46 @@
+Data,Temperatura,Najniższa Temperatura,Zachmurzenie
+Niedziela 20.12,30°C,18°C,Przejściowe zachmurzenie
+Poniedziałek 21.12,29°C,18°C,Przejściowe zachmurzenie
+Wtorek 22.12,29°C,17°C,Zachmurzenie duże z przelotnymi opadami
+Środa 23.12,30°C,17°C,Częściowo słonecznie
+Czwartek 24.12,30°C,17°C,Częściowo słonecznie
+Piątek 25.12,29°C,17°C,Przejściowe zachmurzenie
+Sobota 26.12,29°C,17°C,Przelotne opady
+Niedziela 27.12,30°C,16°C,Zachmurzenie duże
+Poniedziałek 28.12,30°C,16°C,Zachmurzenie duże
+Wtorek 29.12,30°C,18°C,Przejściowe zachmurzenie
+Środa 30.12,29°C,19°C,Zachmurzenie duże z przelotnymi opadami
+Czwartek 31.12,29°C,19°C,Częściowo słonecznie
+Piątek 01.01,30°C,18°C,Zachmurzenie duże
+Sobota 02.01,29°C,18°C,Pochmurno
+Niedziela 03.01,30°C,20°C,Zachmurzenie duże
+Poniedziałek 04.01,30°C,20°C,Zachmurzenie duże
+Wtorek 05.01,29°C,20°C,Przelotne opady
+Środa 06.01,30°C,20°C,Przeważnie słonecznie
+Czwartek 07.01,30°C,20°C,Częściowo słonecznie
+Piątek 08.01,30°C,20°C,Zachmurzenie duże
+Sobota 09.01,30°C,20°C,Pochmurno
+Niedziela 10.01,30°C,20°C,Pochmurno
+Poniedziałek 11.01,30°C,20°C,Przejściowe zachmurzenie
+Wtorek 12.01,30°C,20°C,Przejściowe zachmurzenie
+Środa 13.01,30°C,19°C,Zachmurzenie duże
+Czwartek 14.01,30°C,18°C,Częściowo słonecznie
+Piątek 15.01,30°C,19°C,Zachmurzenie duże
+Sobota 16.01,30°C,20°C,Przejściowe zachmurzenie
+Niedziela 17.01,29°C,18°C,Częściowo słonecznie
+Poniedziałek 18.01,28°C,18°C,Przejściowe zachmurzenie
+Wtorek 19.01,28°C,18°C,Przejściowe zachmurzenie
+Środa 20.01,28°C,19°C,Przejściowe zachmurzenie
+Czwartek 21.01,29°C,18°C,Przejściowe zachmurzenie
+Piątek 22.01,28°C,18°C,Przejściowe zachmurzenie
+Sobota 23.01,28°C,20°C,Częściowo słonecznie
+Niedziela 24.01,30°C,19°C,Przejściowe zachmurzenie
+Poniedziałek 25.01,30°C,18°C,Zachmurzenie duże
+Wtorek 26.01,30°C,18°C,Częściowo słonecznie
+Środa 27.01,30°C,19°C,Częściowo słonecznie
+Czwartek 28.01,29°C,18°C,Częściowo słonecznie
+Piątek 29.01,28°C,18°C,Przejściowe zachmurzenie
+Sobota 30.01,30°C,18°C,Przeważnie słonecznie
+Niedziela 31.01,30°C,20°C,Przeważnie słonecznie
+Poniedziałek 01.02,29°C,20°C,Częściowo słonecznie
+Wtorek 02.02,29°C,20°C,Przejściowe zachmurzenie

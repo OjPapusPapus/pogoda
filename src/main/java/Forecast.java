@@ -1,8 +1,8 @@
 public class Forecast {
-    String date = "";
-    String temp = "";
-    String tempLow = "";
-    String sun = "";
+    public String date = "";
+    public String temp = "";
+    public String tempLow = "";
+    public String sun = "";
 
     Forecast(String date, String temp, String tempLow, String sun) {
         this.date = date;

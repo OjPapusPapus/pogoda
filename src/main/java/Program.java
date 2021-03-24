@@ -45,5 +45,8 @@ public class Program {
             myWriter.close();
         } catch (IOException e) {  e.printStackTrace(); }
 
+        ForecastDatabaseWriter.initialize();
+        ForecastDatabaseWriter.clearEventDataFromDatabase();
+        ForecastDatabaseWriter.saveToDatabase(forecasts);
     }
 }
